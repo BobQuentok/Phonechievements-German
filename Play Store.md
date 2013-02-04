@@ -14,7 +14,7 @@ Bitte beachte, dass nur freigeschaltene Erfolge und reine Zähler synchronisiert
 <h3>HILF UNS BEI DER VERBESSERUNG</h3>
 <p>Hast du irgendwelche Vorschläge? Ideen für neue Erfolge? Zögere nicht und teile uns deine Ideen in den Kommentaren oder per E-Mail mit. Wer weiß, vielleicht kämpfst du bald damit, deinen eigenen Erfolg freizuschalten?<br />
 Hast du irgendwelche Bugs, Fehler oder Abstürze gefunden? Zögere nicht und melde diese.</p>
-<h2>ÜBERSETZUNGEN</h2>
+<h3>ÜBERSETZUNGEN</h3>
 <p>Falls jemand Übersetzungen der App für seine Muttersprache anfertigen möchte, dann schreibe eine E-Mail an mich. (Vor allem französisch, italienisch, etc.)</p>
 <h3>WICHTIG</h3>
 <p>Falls bei dir Probleme aufgetreten sind und du die App in letzter Zeit nicht starten konntest, dann aktualisiere die App nicht einach (bei neuen Aktualisierungen). Deinstalliere die App zuerst und installiere danach die neueste Version und versuche es erneut.<br />
