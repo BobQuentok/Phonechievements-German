@@ -1,0 +1,21 @@
+<resources>
+  <string name="general_settings">Allgemeine Einstellungen</string>
+	<string name="notification_summary_on">Eine Benachrichtigung wird angezeigt, wenn ein Phonechievement freigeschaltet wird</string>
+	<string name="notification_summary_off">Keine Benachrichtigung wird angezeigt, wenn ein Phonechievement freigeschaltet wird</string>
+	<string name="show_notification">Benachrichtigungen</string>
+	
+	<string name="achievements">Erfolge</string>
+	<string name="hidden_phonechievements_summary_off">Ausgeblendete Phonechievements werden nicht angezeigt</string>
+	<string name="hidden_phonechievements_summary_on">Ausgeblendete Phonechievements werden angezeigt</string>
+	<string name="show_hidden_phonechievements">Ausgeblendete Erfolge anzeigen</string>
+	<string name="show_unlocked_phonechievements">Nicht freigeschaltete Erfolge anzeigen</string>
+	<string name="unlocked_phonechievements_summary_off">Noch nicht freigeschaltene Phonechievements werden nicht angezeigt</string>
+	<string name="unlocked_phonechievements_summary_on">Noch nicht freigeschaltete Phonechievements werden angezeigt</string>
+	<string name="expandable_achievement_list_summary_on">Erfolgeliste ist erweiterbar</string>
+	<string name="expandable_achievement_list_summary_off">Erfolgeliste ist nicht erweiterbar</string>
+	<string name="expandable_achievement_list">Erweiterbare Erfolgeliste</string>
+	
+	<string name="gps">GPS</string>
+	<string name="gps_query">GPS-Abfrage</string>
+	<string name="gps_query_summary">Schalte die GPS-Abfrage an oder aus</string>
+</resources>
