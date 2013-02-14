@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+
+
     <string name="app_name">Phonechievements</string>
+    
     <string name="hello_world">Hallo Welt!</string>
+    
     <string name="menu_settings">Einstellungen</string>
     <string name="app_id">387201668041530</string>
     <string name="settings_activity_title">Einstellungen</string>
     <string name="shareBtnDescr">Phonechievement teilen</string>
-    <string name="acIcnDescr">Erfolg-Icon</string>
-    <string name="share_phonechievement_via">Phonechievement teilen via</string>
-    <string name="share_online_profile_via">Online-Profil teilen via</string>
-    <string name="nickname_dialog_message">Wähle deinen Benutzernamen für dein Online-Profil. Achtung! Der von dir gewählte Benutzername wird an dein Profil gebunden sein und kann nicht mehr geändert werden. Wähle also mit Bedacht</string>
+    <string name="acIcnDescr">Phonechievement-Icon</string>
+    <string name="share_phonechievement_via">Phonechievement teilen</string>
+    <string name="share_online_profile_via">Online-Profil teilen</string>
+    <string name="nickname_dialog_message">Wähle einen Benutzernamen für dein Online-Profil. Achtung! Der von dir gewählte Benutzername wird an dein Profil gebunden sein und kann nicht mehr geändert werden. Wähle also mit Bedacht</string>
     <string name="totalUnlocked">Freigeschaltet:</string>
     <string name="totalRemaining">Übrig:</string>
+    <string name="latestUnlocked">Zuletzt freigeschaltet:</string>
     <string name="profileURL">Dein Profil:</string>
     <string name="stats">Statistiken</string>
     <string name="choose_account">Wähle ein Benutzerkonto</string>
@@ -42,14 +47,24 @@
     <string name="nickname_available">Benutzername verfügbar</string>
     <string name="phonechievement_unlocked">Phonechievement freigeschaltet!</string>
     <string name="hide">Ausblenden</string>
+    <string name="unhide">Einblenden</string>
     <string name="sync">Synchronisieren</string>
     <string name="share_profile">Profil teilen</string>
     <string name="stats">Statistiken</string>
+    <string name="filter_hint">Name des Erfolges...</string>
+    <string name="top_menu">Menü anzeigen (Aktionsleiste)</string>
+    <string name="top_menu_on">Das Menü wird oben als Aktionsleiste angezeigt</string>
+    <string name="top_menu_off">Das Menü wird durch Betätigen der Menü-Taste angezeigt</string>
+    <string name="changelog">Changelog</string>
+    <string name="thank_you_for_installing">Danke für's Installieren! Viel Spaß!</string>
+    <string name="changes">Änderungen: </string>
+    <string name="show_changelog">Den Changelog nach einer Aktualisierung angzeigen</string>
     
     
     <string name="ach_altitude_descr">Begebe dich in eine Höhe von {0} Metern, starte GPS und warte, bis die App dies registriert</string>
-    <string name="ach_sms_rec_descr">{0} SMS empfangen</string>
-  <string name="ach_angry_birds_fever">Installiere alle \"Angry Birds\"-Spiele (zur selben Zeit)</string>
+    <string name="ach_sms_rec_descr">Empfange {0} SMS</string>
+
+	<string name="ach_angry_birds_fever">Installiere alle \"Angry Birds\"-Spiele (sie müssen sich zur selben Zeit auf deinem Telefon befinden)</string>
 	<string name="ach_apps_installed">Installiere {0} Apps</string>
 	<string name="ach_at_least_i_tried">Erreiche eine 1-wöchige Betriebszeit: Schalte dein Telefon nie aus, starte es nie neu und lass es sich nie aufgrund des Akkuverbrauchs selbst ausschalten</string>
 	<string name="ach_attention_lover">Ein freigeschaltetes Phonechievement auf Facebook teilen</string>
@@ -63,7 +78,7 @@
 	<string name="ach_dedicated_tester">Installiere 30 Tage lang mindestens eine App pro Tag. Solltest du 48 Stunden nach deiner letzten App-Installation keine neue App installieren, dann wird der Zähler zurückgesetzt. Damit die nächste App gezählt werden kann, muss die letzte App-Installation 24 Stunden her sein</string>
 	<string name="ach_turn_screen_on_off">Schalte den Bildschirm mehr als  {0} Mal in 24 Stunden an und aus</string>
 	<string name="ach_missed_calls">Verpasse {0} Anrufe</string>
-	<string name="ach_have_following_apps_installed">Installiere eine der folgenden \"{0}\"-Apps: {1}</string>
+	<string name="ach_have_following_apps_installed">Installiere eine der folgenden {0} Apps: {1}</string>
 	<string name="ach_have_app_installed">Installiere die \"{0}\"-App</string>
 	<string name="ach_green">Lade dein Telefon für {0} Tage nicht auf</string>
 	<string name="ach_hello_world">Starte die \"Phonechievements\"-App das erste Mal</string>
@@ -93,4 +108,12 @@
 	<string name="ach_stalker">Rufe 10-mal nacheinander die selbe Nummer an, und rede mindestens 2 Minuten</string>
 	<string name="ach_alt_approach">Lade dein Telefon 15-mal nacheinander nur mit dem Netzteil auf. Die Ladevorgänge müssen mindestens einen Abstand von 10 Stunden haben, damit sie gezählt werden</string>
 	<string name="ach_truly_lost">Das ist ein schwieriger Erfolg. Du musst dich abwechselnd mit einem Daten- und einem WLAN-Netzwerk verbinden. 8-mal in 23 Stunden. Allerdings darfst du nicht sofort wechseln. Du musst mindestens 42 Minuten warten, bevor du den Netzwerktyp wechselst. Entweder machst du das, oder das Rauchmonster wird die Statistiken zurücksetzen</string>
+	<string name="ach_upside_down">Begebe dich in die Tiefe (negative Höhe - unter dem Meeresspiegelbe)</string>
+	<string name="ach_close_call">Schließe das Ladegerät an, wenn der Akkuladezustand unter 3% ist</string>
+	<string name="ach_eco_monster">Verbrauche deinen Akkuladezustand in weniger als 6 Stunden (von 100% auf 0%). Der Countdown beginnt, sobald der Akku vollständig geladen ist</string>
+	<string name="ach_navigator">Verbinde dich mit 20 verschiedenen WLAN-Zugangspunkten</string>
+	<string name="ach_abc">Installiere für jeden Buchstaben aus dem Alphabet eine App (nur der erste Buchstabe des App-Namens wird gezählt)</string>
+	<string name="ach_all_for_one_and_one_for_all">Arbeitet als Gruppe zusammen und sammelt insgesamt {0} freigeschaltete Phonechievements. Du benötigst die Synchronisieren-Option, um dieses Phonechievement zu aktualisieren</string>
+	<string name="ach_one_week_calls">Ingesamt {0} Stunden an Anrufdauer (entspricht 7 Wochen)</string>
+
 </resources>
