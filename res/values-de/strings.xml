@@ -113,7 +113,14 @@
 	<string name="ach_eco_monster">Verbrauche deinen Akkuladezustand in weniger als 6 Stunden (von 100% auf 0%). Der Countdown beginnt, sobald der Akku vollständig geladen ist</string>
 	<string name="ach_navigator">Verbinde dich mit 20 verschiedenen WLAN-Zugangspunkten</string>
 	<string name="ach_abc">Installiere für jeden Buchstaben aus dem Alphabet eine App (nur der erste Buchstabe des App-Namens wird gezählt)</string>
-	<string name="ach_all_for_one_and_one_for_all">Arbeitet als Gruppe zusammen und sammelt insgesamt {0} freigeschaltete Phonechievements. Du benötigst die Synchronisieren-Option, um dieses Phonechievement zu aktualisieren</string>
+	<string name="ach_all_for_one_and_one_for_all">Arbeitet als Gruppe zusammen und sammelt insgesamt {0} freigeschaltete Phonechievements. Du musst die Synchronisieren-Option verwenden, um den Fortschritt dieses Phonechievement zu aktualisieren</string>
 	<string name="ach_one_week_calls">Ingesamt {0} Stunden an Anrufdauer (entspricht 7 Wochen)</string>
+	<string name="ach_apps_update">Erhalte insgesamt {0} Anwendung-Aktualisierungen</string>
+	<string name="ach_wifi_data_usage">Verbrauche insgesamt {0}MB an Daten über eine WLAN-Datenverbindung</string>
+	<string name="ach_the_cloud">Arbeitet als Gruppe zusammen und verbraucht insgesamt {0}GB an Daten. Du musst die Synchronisieren-Option verwenden, um den Fortschritt dieses Phonechievement zu aktualisieren</string>
+	<string name="ach_fair_sharing">Get a total of {0}MB of data traffic from both wifi and mobile networks together. However you have to get at least {1}MB of traffic on each network</string>
+	<string name="ach_i_am_feeling_lucky">Du musst dich in einem aktiven Telefon-Gespräch befinden, wenn dieses Phonechievement aktiviert wird. Falls du dich in keinem aktivien Telefon-Gespräch befindest, wird es deaktiviert. Vielleicht hast du nächstes Mal mehr Glück! Dies ist ein Randomchievement, das sich zufällig aktiviert und für eine zufällige Zeitspanne zwischen 15 Minuten und 6 Stunden aktiv bleibt</string>
+	<string name="ach_getting_up_to_date">Du musst 10 Anrufe tätigen, während dies aktiv ist. Dies ist ein Randomchievement, das sich zufällig aktiviert und für eine zufällige Zeitspanne zwischen 15 Minuten und 6 Stunden aktiv bleibt</string>
+	<string name="ach_patriot">Vereinigt eure Kräfte. {0} Patrioten, die Phonechievements aus dem selben Land verwenden werden benötigt, damit alle dieses Phonechievement erhalten. Das Land, das zur Wahl gezogen wird, ist das, welches du auf deinem Benutzerkonto angegeben hast</string>
 
 </resources>

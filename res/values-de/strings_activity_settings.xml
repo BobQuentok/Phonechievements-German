@@ -18,4 +18,8 @@
 	<string name="gps">GPS</string>
 	<string name="gps_query">GPS-Abfrage</string>
 	<string name="gps_query_summary">Schalte die GPS-Abfrage an oder aus</string>
+	
+	<string name="popup_notification">Popup-Benachrichtigung</string>
+	<string name="popup_notification_enable">Popup-Benachrichtigung aktivieren</string>
+	<string name="vibration">Vibration aktivieren</string>
 </resources>
